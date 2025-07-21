@@ -1,1 +1,1 @@
-A Simple Realtime Chat app made with Kotlin and firebas as baas. 
+A Simple Realtime Chat app made with Kotlin and firebase.
